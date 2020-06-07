@@ -43,6 +43,30 @@
 
 
 
+### Конфиги
+
+- Мощный конфигуратор 
+
+  - [dynaconf](https://github.com/rochacbruno/dynaconf)
+
+  - ```
+    pip install dynaconf
+    ```
+
+
+
+### Планирование задач
+
+- простой планировщик для  исполненния отложенных и регулярных задач
+
+  - [apscheduler](https://github.com/agronholm/apscheduler)
+
+  - ```
+    $ pip install apscheduler
+    ```
+
+
+
 ### Финансы
 - Tinkoff инвестиции API (неофициальная)
 
@@ -64,3 +88,14 @@
         pip install cbrf
     ```
 
+
+
+### Электронная почта
+
+- Простой IMAP клиент
+
+  - [imbox](https://github.com/martinrusev/imbox)
+
+  - ```
+    pip install imbox
+    ```
