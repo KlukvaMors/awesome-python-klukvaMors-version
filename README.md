@@ -7,6 +7,26 @@
 
 
 
+- [Базы Данных](###Базы данных)
+
+- [Финансы](###Финансы)
+
+  
+
+
+
+### Базы данных
+
+- простая и быстрая ORM для postgresql, mysql and sqlite
+
+  - [peewee](https://github.com/coleifer/peewee) 
+
+  - ```
+    pip install peewee
+    ```
+
+
+
 ### Финансы
 - Tinkoff инвестиции API (неофициальная)
 
