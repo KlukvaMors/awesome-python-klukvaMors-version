@@ -10,3 +10,11 @@
 - https://python-scripts.com/
   - Язык: русский
   - Сайт наполнен статьями о различных аспектах ЯП python и его библиотек, в том чиле переводами с английского
+
+
+
+## Статьи
+
+- **Flask and WebSocket**
+  - https://ru.stackoverflow.com/questions/728926/progressbar-%D0%B8-flask
+  - https://blog.miguelgrinberg.com/post/easy-websockets-with-flask-and-gevent
