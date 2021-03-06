@@ -15,6 +15,8 @@
 
 - [Text processing](./TEXT_PROCESSING.md)
 
+- [CLI](./CLI.md)
+
 - [Базы Данных](#Базы_данных)
 
 - [Графика](#Графика)
